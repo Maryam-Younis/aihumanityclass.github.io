@@ -93,10 +93,16 @@ The class debated whether AI represents a continuation of historical automation 
 
 ### Discussion Question 3: Should AI companies be responsible for supporting displaced workers?
 
+The class was divided on whether AI companies themselves should be held responsible for workers displaced by automation. Some students argued that it would be unfair to hold AI firms to a different standard than past industries. Factories and manufacturing companies were not required to subsidize workers who lost their jobs during earlier waves of automation, so imposing that obligation on AI companies might show an inconsistent policy response. Others pointed out practical concerns that the AI sector, while influential, may not yet be large or profitable enough relative to the entire economy to financially support all displaced workers. Additionally, it can be difficult to determine direct causation, whether layoffs are truly due to AI replacement or companies blaming workforce reductions on AI as a convenient explanation.
+
+At the same time, several students suggested that the government should take primary responsibility for supporting displaced workers through potential policies like universal basic income (UBI). However, UBI was not viewed as a perfect solution; some noted that it might simply lift people slightly above the poverty line without addressing deeper questions of meaning and social contribution. A more speculative idea raised was whether AI itself could help design better economic transition policies. Ultimately, the discussion revealed tension between fairness, practicality, and the scale of potential disruption that AI could cause.
 
 ---
 
 ### Discussion Question 4: Is this technological moment fundamentally different from past technological revolutions?
 
+Many students felt that this moment may be fundamentally different from previous waves of technological change. Historically, major innovations, from the Industrial Revolution to mechanized agriculture, primarily replaced physical labor. While disruptive, those shifts often created new forms of employment that relied on human cognitive skills. AI, however, threatens to automate not only manual tasks but also intellectual and creative labor, areas long considered uniquely human. Several students noted that it is rare for a technology to meaningfully compete with mental reasoning, writing, design, coding, and decision-making all at once.
+
+Some students suggested that if AI continues advancing rapidly, it could theoretically replace nearly all forms of human labor rather than just specific sectors. This raises deeper philosophical concerns about human purpose and identity. Others cautioned against assuming inevitability, pointing out that previous generations also feared total displacement, yet society adapted in unexpected ways. Still, the breadth and speed of AI’s capabilities make this transition feel different. Whether it ultimately proves to be another chapter in a long history of adaptation or a true break from the past remains uncertain.
 
 ---
