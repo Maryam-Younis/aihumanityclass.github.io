@@ -22,7 +22,12 @@ Optional additional reading: The [Special Competitive Studies Project](https://w
  
 ### Reading for Thursday, 12 March
 
-- John von Neumann, [_Can we Survive Technology?_](/docs/vonNeumann1955.pdf), Fortune Magazine, June 1955. [[PDF](/docs/vonNeumann1955.pdf)]
+- John von Neumann, [_Can we Survive Technology?_](/docs/vonNeumann1955.pdf), Fortune Magazine, June 1955. [[PDF](/docs/vonNeumann1955.pdf)] 
 
 John von Neumann wrote this while he was a member of the US Atomic Energy Commission. If you're not familiar with von Neumann or think "inventing" the "von Neumann architecture" is among the most important things he did, you should at least skim his [Wikipedia Page](https://en.wikipedia.org/wiki/John_von_Neumann).
 
+The version [hosted by Fortune](https://archive.is/mhcdO) includes this note:
+
+> _**Editor’s note:** This feature from June 1955 by John von Neumann tackles the profound questions wrought by radical technical advancement—in von Neumann’s day the atomic bomb and climate change. von Neumann was one of the twentieth century’s greatest and most influential geniuses. The polymath and patron saint of Game Theory was instrumental in developing America’s nuclear superiority toward the end of World War II as well as in framing the decades-long Cold War with the Soviet Union. In his time, von Neumann was said to possess “the world’s greatest mind.” Here is his characteristically pessimistic look on what the future holds._
+
+I think it grossly mischaracterizes both the article and von Neumann by calling it "characteristically pessimistic", but you should form your own opinion on it.
