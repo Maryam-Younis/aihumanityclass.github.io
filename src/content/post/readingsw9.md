@@ -13,6 +13,10 @@ author = "David Evans"
 A new measure and early evidence_](https://www.anthropic.com/research/labor-market-impacts). Anthropic, 2026. [[Web](https://www.anthropic.com/research/labor-market-impacts
 )] [[PDF](https://cdn.sanity.io/files/4zrzovbb/website/2b5bbaf2c1eb81dbf6e6fb813c1a24e35a64d376.pdf)]
 
+And at least one of these two:
+
+- Bertrand Russell. [_In Praise of Idleness_](/docs/idleness1932.pdf). Harper's Magazine, 1932. [[PDF](/docs/idleness1932.pdf)] [[Web](https://harpers.org/archive/1932/10/in-praise-of-idleness/)]
+
 - John Maynard Keynes. [_Economic Possibilities for Our Grandchildren_](/docs/keynes1930.pdf). 1930.
 
 Optional additional reading:
