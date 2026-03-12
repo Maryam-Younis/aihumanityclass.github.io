@@ -111,12 +111,6 @@ slug = "schedule"
   <tbody>
 
   <tr>
-  <td>Thursday 12 Mar</td>
-  <td>12</td>
-  <td>5</td>
-  <td>9</td>
-  </tr>
-  <tr>
   <td>Tuesday 17 Mar</td>
   <td>1</td>
   <td>6</td>
@@ -301,6 +295,12 @@ slug = "schedule"
   <td>&ndash;</td>
   <td>4</td>
   <td>8</td>
+  </tr>
+  <tr>
+  <td>Thursday 12 Mar</td>
+  <td>12</td>
+  <td>5</td>
+  <td>9</td>
   </tr>
 
  </tbody>
