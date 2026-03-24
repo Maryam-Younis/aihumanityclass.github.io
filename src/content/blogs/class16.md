@@ -6,13 +6,17 @@ title = "Class 16: Jobs for Humans"
 author = "Team 10"
 +++
 
-You can use this template for your blog, but also look at previous examples from other blogging teams for help on structuring your blog.
-
-In general, writing for the web is different from writing for other media. You should break your text into fairly short paragraphs, and including images and links is highly encouraged! 
-
-Replace this with your blog!
-
 **Blogging Team 10**: Nurdin Hossain, Ruizhang Chen, Hemanth Saravanan, Pranav Goteti, Hannah Cohen
+
+# Summary
+
+[**News: QuitGPT**]
+
+**Topic: [Doomerism vs. Optimism](#doomerism-vs-optimism)**
+
+During this class, the news team first discussed the ever-evolving opposition towards OpenAI through the lens of the QuitGPT movement. The team listed OpenAI's political entanglements and advertising experiments as two primary reasons for the birth of QuitGPT. Professor Evans then stepped in to reflect on the history of doomsday predictions and why they tend to fall short on their claims. He cited the recent death of Paul Ehrlich — author of the infamous 1968 book *The Population Bomb* — as a touchstone for why catastrophist thinking, while thought-provoking, tends to be both wrong and dangerous.
+
+---
 
 # Doomerism vs Optimism
 
@@ -42,5 +46,9 @@ This proved later to be wrong. The Green Revolution advances in agriculture caus
 > **The most hopeful answer is that the human species has been subjected to similar tests before and seems to have a congenital ability to come through, after varying amounts of trouble.** To ask in advance for a complete recipe would be unreasonable. We can specify only the human qualities required: **patience, flexibility, intelligence.** — John von Neumann, 1955
 
 Being an optimist doesn't mean ignoring real harms and existenting risks. It means having the historical perspective to realize that humanity has been subjected to immense tests before, and we have a remarkable, built-in ability to survive them. We’ve faced similar challenges before and succeeded, so we’ll prevail again. As mathematician John von Neumann noted back in 1955, we don't need a perfect recipe for the future. We just need the right human qualities: patience, flexibility, and intelligence. Instead of retreating from progress, we need frameworks like techno-optimism—the belief that scientific and technological advances are the very tools we need to overcome our biggest hurdles. Thomas Jefferson founded UVA based on the "illimitable freedom of the human mind." He argued that as new discoveries are made and circumstances change, our institutions and our thinking must advance to keep pace with the times. The challenges we face today are real, but they aren't a reason to panic. They are simply the next set of problems waiting for the human mind to solve.
+
+# Conclusion
+
+As our discussions on QuitGPT and doomerism ultimately remind us, the future of AI is deeply uncertain. A Washington Post analysis citing research from GovAI and the Brookings Institution paints this uncertainty well: while skills in fields like computer programming, marketing, and customer service have been thought by many to be most vulernable to AI, the workers in these fields are also highly skilled and are well-positioned to find new work. Unfortunately, the picture is not completely optimistic. Researchers found that roughly 6 million clerical and administrative workers face a combination of high AI exposure and low adaptability (high risk of AI overtaking their jobs and low ability to pivot to other roles). Women make up approximately 86 percent of this group, suggesting the costs of automation will be inequally distributed across society. One important note to consider is that economists have historically been far off the mark with respect to predicting how new technologies will shape labor markets. Whether AI proves to be the great disruptor many fear or simply the next chapter in a long history of technological adaptation, the outcome will depend less on the technology itself and more on the choices made by policymakers, companies, and workers in the years ahead.
 
 
