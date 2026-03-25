@@ -10,7 +10,9 @@ author = "Team 11"
 
 # From FARS to Vibe Research
 
-- Sources: ["Introducing FARS"](https://analemma.ai/blog/introducing-fars/?utm_source=chatgpt.com), ["FARS goes Crazy"](https://eu.36kr.com/en/p/3696795271966336?utm_source=chatgpt.com)
+Sources: 
+- Analemma Intelligence, [_Introducing FARS_](https://analemma.ai/blog/introducing-fars/?utm_source=chatgpt.com). 2026.
+- European Central Station (36Kr). [_228 hours of non-stop work to produce 100 papers, burning through 11.4 billion Tokens: FARS has gone crazy_](https://eu.36kr.com/en/p/3696795271966336?utm_source=chatgpt.com). 25 February 2026.
 
 At the beginning of 2026, a Chinese company called Analemma finished its first experiment on the Fully Automated Research System, FARS. 
 

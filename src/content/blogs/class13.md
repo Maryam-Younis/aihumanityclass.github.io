@@ -7,6 +7,8 @@ author = "Team 7"
 
 **Blogging Team [7]**: _Seth Lifland, Aryan Thodupunuri, David Hu, Pallavi Mamillapalli, Grace Kitt_
 
+**[Additional News: _From FARS to Vibe Research_](/blogs/class13-airesearch)**
+
 ## News Discussion: AI Safety, Competition, and the Anthropic Debate
 
 Professor Evans began by presenting recent news about [Anthropic](https://www.anthropic.com/). Anthropic has generated lots of headlines recently, with a mix of negative and positive articles.
