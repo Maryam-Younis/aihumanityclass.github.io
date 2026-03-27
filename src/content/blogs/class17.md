@@ -1,5 +1,5 @@
 +++
-date = "2026-03-22"
+date = "23 Mar 2026"
 title = "Class 17: Universal Basic Income"
 author = "Kate McCray, Lara Mahajan, Shreeja Tangutur, Mandy Le, Lily Egenrieder"
 +++
