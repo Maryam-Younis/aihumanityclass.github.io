@@ -112,18 +112,6 @@ slug = "schedule"
 
   
   <tr>
-  <td>Thursday 26 Mar</td>
-  <td>&ndash;</td>
-  <td>9</td>
-  <td>1</td>
-  </tr>
-  <tr>
-  <td>Tuesday 31 Mar</td>
-  <td>&ndash;</td>
-  <td>&ndash;</td>
-  <td>5</td>
-  </tr>
-  <tr>
   <td>Thursday 2 Apr</td>
   <td>3</td>
   <td>10</td>
@@ -302,6 +290,18 @@ slug = "schedule"
   <td>Looksmaxxing (2)</td>
   <td>Creativity (8)</td>
   <td><a href="/blogs/class18">Class 18</a> (12)</td>
+  </tr>
+  <tr>
+  <td>Thursday 26 Mar</td>
+  <td>&ndash;</td>
+  <td>9</td>
+  <td>1</td>
+  </tr>
+  <tr>
+  <td>Tuesday 31 Mar</td>
+  <td>&ndash;</td>
+  <td>Project Pitches</td>
+  <td>5</td>
   </tr>
 
  </tbody>
