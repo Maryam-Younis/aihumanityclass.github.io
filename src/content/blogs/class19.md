@@ -1,6 +1,6 @@
 +++
 date = "26 Mar 2026"
-draft = true
+draft = false
 exclude_from_list = false
 title = "Class 19"
 author = "Team 1"
