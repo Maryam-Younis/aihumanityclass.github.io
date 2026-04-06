@@ -1,7 +1,7 @@
 +++
 date = "26 Mar 2026"
 draft = false
-title = "Class 19"
+title = "Creativity II"
 author = "Team 1"
 +++
 
