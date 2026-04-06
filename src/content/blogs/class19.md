@@ -5,12 +5,6 @@ title = "Class 19: Creativity II"
 author = "Team 1"
 +++
 
-You can use this template for your blog, but also look at previous examples from other blogging teams for help on structuring your blog.
-
-In general, writing for the web is different from writing for other media. You should break your text into fairly short paragraphs, and including images and links is highly encouraged! 
-
-Replace this with your blog!
-
 **Blogging Team 1**: Amanda Appiah-Yeboah, Srikar Bangaru, Sarah Francis, Tristan Grubbs, Matthew Janicki
 
 # News: Meta and Google Rulings
@@ -23,9 +17,9 @@ Replace this with your blog!
 - https://www.npr.org/2026/03/25/nx-s1-5746125/meta-youtube-social-media-trial-verdict
 
 <center>
-<img src="/images/Meta_ruling.png" width=80% alt="Meta ruling, February 19th"></img>
-Figure 1: Mark Zuckerberg leaves the Courthouse after defending Meta on February 19th.
+<img src="/images/Meta_ruling.png" width=70% alt="Meta ruling, February 19th"></img>
 </center>
+Figure 1: Mark Zuckerberg leaves the Courthouse after defending Meta on February 19th.
 
 The professor opened class by discussing the landmark ruling holding Meta and YouTube liable for causing social media addiction, a long-debated topic that will find a new home in courts across the United States. This court case occurred in the L.A. courts, where they ruled in favor of a young user who claimed the addictive design features led to mental health distress.
 
@@ -53,16 +47,16 @@ Humans bring meaning into the world through their interactions with other people
 The next activity had the class drawing to the prompt: “Draw a kitchen table, ready for dinner. It has plates, napkins, utensils and cups.” After we finished drawing, we shared out and then looked at how AI drew this prompt.
 
 <center>
-<img src="/images/AI_Drawn_Table.png" width=80% alt="Ai drawn table"></img>
-Figure 2: AI-generated image responding to the aforementioned prompt.
+<img src="/images/AI_Drawn_Table.png" width=70% alt="Ai drawn table"></img>
 </center>
+Figure 2: AI-generated image responding to the aforementioned prompt.
 
 While human art has many different merits to it, AI art is definitely a lot faster than we are, and much more skilled than the average human is at drawing. After that, our next prompt was simply: “Draw a really good day.” This prompt demonstrated how varied human perspective is, as there were countless different interpretations of a “good day”.
 
 <center>
-<img src="/images/Human_Drawn_Table.png" width=80% alt="Human drawn table"></img>
-Figure 2: Sarah's interpretation of a really good day.
+<img src="/images/Human_Drawn_Table.png" width=70% alt="Human drawn table"></img>
 </center>
+Figure 2: Sarah's interpretation of a really good day.
 
 Our last activity was trying to replicate a painting by Melissa McKinnon using AI tools. It was a challenge to describe such a vibrant and imaginative painting for a prompt, but many groups came very close to recreating it. The class concluded after we all shared and briefly discussed our attempted recreations.
 
