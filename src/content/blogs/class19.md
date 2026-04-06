@@ -1,7 +1,7 @@
 +++
 date = "26 Mar 2026"
 draft = false
-title = "Creativity II"
+title = "Class 19: Creativity II"
 author = "Team 1"
 +++
 
@@ -24,7 +24,7 @@ Replace this with your blog!
 
 <center>
 <img src="/images/Meta_ruling.png" alt="Meta ruling, February 19th"></img>
-## Figure 1: Mark Zuckerberg leaves the Courthouse after defending Meta on February 19th.
+Figure 1: Mark Zuckerberg leaves the Courthouse after defending Meta on February 19th.
 </center>
 
 The professor opened class by discussing the landmark ruling holding Meta and YouTube liable for causing social media addiction, a long-debated topic that will find a new home in courts across the United States. This court case occurred in the L.A. courts, where they ruled in favor of a young user who claimed the addictive design features led to mental health distress.
@@ -54,14 +54,14 @@ The next activity had the class drawing to the prompt: “Draw a kitchen table, 
 
 <center>
 <img src="/images/AI_Drawn_Table.png" alt="Ai drawn table"></img>
-## Figure 2: AI-generated image responding to the aforementioned prompt.
+Figure 2: AI-generated image responding to the aforementioned prompt.
 </center>
 
 While human art has many different merits to it, AI art is definitely a lot faster than we are, and much more skilled than the average human is at drawing. After that, our next prompt was simply: “Draw a really good day.” This prompt demonstrated how varied human perspective is, as there were countless different interpretations of a “good day”.
 
 <center>
 <img src="/images/Human_Drawn_Table.png" alt="Human drawn table"></img>
-## Figure 2: Sarah's interpretation of a really good day.
+Figure 2: Sarah's interpretation of a really good day.
 </center>
 
 Our last activity was trying to replicate a painting by Melissa McKinnon using AI tools. It was a challenge to describe such a vibrant and imaginative painting for a prompt, but many groups came very close to recreating it. The class concluded after we all shared and briefly discussed our attempted recreations.
