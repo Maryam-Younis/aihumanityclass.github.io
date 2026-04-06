@@ -18,8 +18,9 @@ author = "Team 1"
 
 <center>
 <img src="/images/Meta_ruling.png" width=70% alt="Meta ruling, February 19th"></img>
-</center>
 Figure 1: Mark Zuckerberg leaves the Courthouse after defending Meta on February 19th.
+</center>
+
 
 The professor opened class by discussing the landmark ruling holding Meta and YouTube liable for causing social media addiction, a long-debated topic that will find a new home in courts across the United States. This court case occurred in the L.A. courts, where they ruled in favor of a young user who claimed the addictive design features led to mental health distress.
 
