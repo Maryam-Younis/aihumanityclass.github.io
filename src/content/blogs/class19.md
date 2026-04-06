@@ -1,7 +1,7 @@
 +++
 date = "26 Mar 2026"
 draft = true
-exclude_from_list = true
+exclude_from_list = false
 title = "Class 19"
 author = "Team 1"
 +++
