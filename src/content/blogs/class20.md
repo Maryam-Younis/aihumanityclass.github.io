@@ -1,11 +1,11 @@
 +++
 date = "07 Apr 2026"
-draft = true
+draft = false
 exclude_from_list = true
 title = "Class 20: Project Pitches"
 author = "Team 5"
 +++
-**Blogging Team [5]**: Carolyn Chen, Yuezhang Chen, Stella Hession, Iman Mohamed, Salonee Verma
+**Blogging Team [5]**: Yuezhang Chen, Seth Lifland, Grace Kitthanawong , Iman Mohamed, Salonee Verma
 
 # Class Updates
 Due to questions in the prior class, Professor Evans took us through the landscape of social media class action lawsuits — there are many various firms setting up these lawsuits against social media companies, and it will be interesting to see how they shape public perception. Lawsuits helped change the perception of tobacco earlier in history, so it’s possible they could do the same today.
@@ -56,12 +56,11 @@ Lastly, Team Fushia’s project “Unskilled to Autofilled” explores whether A
 
 
 # Professor Evans’s Feedback
+
 After all the teams had gone, Professor Evans provided the class with some advice and final feedback, emphasizing that teams should take notice of certain aspects of the slideshows that would be beneficial to incorporate or avoid for future presentations. He highlighted the value of the space on the screen, and encouraged groups to use it in the most useful way, such as having a large image that fills most of the screen. He commented that many slides had 80% of the screen space unused, and he emphasized the benefit of optimizing screen space.
 
 You can use this template for your blog, but also look at previous examples from other blogging teams for help on structuring your blog.
 
 In general, writing for the web is different from writing for other media. You should break your text into fairly short paragraphs, and including images and links is highly encouraged! 
-
-Replace this with your blog!
 
 
