@@ -32,7 +32,7 @@ Evans also stressed the importance of not reading directly from slides during pr
 He explained that improving presentation skills requires intentional effort: observing other presenters, practicing regularly, and reflecting on both explicit and implicit feedback. The motivation to improve comes from respecting the audience, valuing the content, and developing one’s own skills.
 
 -  The talk by Patrick Henry Winston on _How to Speak_ is here:
-[https://www.youtube.com/watch?v=Unzc731iCUY](https://www.youtube.com/watch?v=Unzc731iCUY). Everyone is highly recommended to watch this (now, and at least onced each year)! 
+[https://www.youtube.com/watch?v=Unzc731iCUY](https://www.youtube.com/watch?v=Unzc731iCUY). Everyone is highly recommended to watch this (now, and at least once each year)! 
 
 - [_Meta Talk: How to Give a Talk So Good You'll Be Asked to Give Talks About Nothing_](https://www.cs.virginia.edu/evans/metatalk): [[Notes](https://www.cs.virginia.edu/evans/metatalk)] Slides: [[PPTX](http://www.cs.virginia.edu/evans/metatalk/metatalk.pptx)] [[PDF](http://www.cs.virginia.edu/evans/metatalk/metatalk.pdf)]. 
 
