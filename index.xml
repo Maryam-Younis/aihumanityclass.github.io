@@ -6,7 +6,7 @@
     <description>Recent content on AI and Humanity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aihumanityclass.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Class 20</title>
@@ -114,18 +114,11 @@
       <description>&lt;p&gt;Here&amp;rsquo;s the Table Teams map for this week (Feb 3 and Feb 5 classes):&lt;/p&gt;&#xA;&lt;center&gt;&#xA;&lt;img src=&#34;https://aihumanityclass.github.io/images/tablemap-feb3.png&#34; width=&#34;80%&#34;&gt;&#xA;&lt;/center&gt;</description>
     </item>
     <item>
-      <title>Plans for Upcoming Classes</title>
-      <link>https://aihumanityclass.github.io/plans-for-upcoming-classes/</link>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://aihumanityclass.github.io/plans-for-upcoming-classes/</guid>
-      <description>&lt;h3 id=&#34;readings-for-tuesday-14-april&#34;&gt;Readings for Tuesday, 14 April&lt;/h3&gt;&#xA;&lt;p&gt;The topic for Tuesday 14 April will be detecting AI-generated content. The required reading is:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hanlin Zhang, Benjamin L. Edelman, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, Boaz Barak. &lt;a href=&#34;https://arxiv.org/abs/2311.04378&#34;&gt;&lt;em&gt;Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models&lt;/em&gt;&lt;/a&gt;. ICML 2024. [&lt;a href=&#34;https://arxiv.org/pdf/2311.04378&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;https://hanlin-zhang.com/impossibility-watermarks/&#34;&gt;Website&lt;/a&gt;, which includes a short &lt;a href=&#34;https://www.youtube.com/watch?v=5DS2D8mLejg&#34;&gt;Video Talk&lt;/a&gt;]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In addition to reading the paper, you should try the &lt;a href=&#34;https://www.pangram.com/&#34;&gt;Pangram AI Detector&lt;/a&gt; and read the blog post on &lt;a href=&#34;https://www.pangram.com/research/how-it-works&#34;&gt;&lt;em&gt;How Pangram detects AI-generated content&lt;/em&gt;&lt;/a&gt;. Your goal is to either generate or find human-written text that it misclassifies as AI generated (a &lt;em&gt;false positive&lt;/em&gt;), or generate AI-generated text that it misclassifies as written by a human (a &lt;em&gt;false negative&lt;/em&gt;). You can also try &lt;a href=&#34;https://gptzero.me/&#34;&gt;GPTZero&lt;/a&gt; (but it is too easy to find misclassifications for GPTZero for this to be a challenge).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Project Presentations</title>
-      <link>https://aihumanityclass.github.io/project-presentations/</link>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://aihumanityclass.github.io/project-presentations/</guid>
-      <description>&lt;h3 id=&#34;schedule&#34;&gt;Schedule&lt;/h3&gt;&#xA;&lt;p&gt;You should already know your team&amp;rsquo;s schedule for the project draft presentation from the feedback on your update a few weeks ago. Here is the full schedule:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tuesday 21 April&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bisque&lt;br&gt;&#xA;Dahlia&lt;br&gt;&#xA;Hazel&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Thursday 23 April&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Amber&lt;br&gt;&#xA;Cyan&lt;br&gt;&#xA;Fuchsia&lt;br&gt;&#xA;Jade&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tuesday 28 April&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ember&lt;br&gt;&#xA;Garnet&lt;br&gt;&#xA;Indigo&lt;/p&gt;&#xA;&lt;h3 id=&#34;expectations&#34;&gt;Expectations&lt;/h3&gt;&#xA;&lt;p&gt;Your presentation should be &lt;strong&gt;10 to 12 minutes&lt;/strong&gt; long, with a hard cut-off at 13 minutes.&lt;/p&gt;&#xA;&lt;p&gt;You should aim to make an interesting, clear, and engaging presentation, following the presentation advice from &lt;a href=&#34;https://aihumanityclass.github.io/blogs/class14/&#34;&gt;Class 14&lt;/a&gt; (or thoughtfully not following it but because you have a good reason to do something better, not because you have not thought about how to make your presentation effective).&lt;/p&gt;</description>
+      <title>Class 21: AI in Warfare and Copyrighted Books</title>
+      <link>https://aihumanityclass.github.io/blogs/class21/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://aihumanityclass.github.io/blogs/class21/</guid>
+      <description>&lt;p&gt;Blogging Team 7: David Hu, Aryan Thodupunuri, Stella Hession, Pallavi Mamillapalli, and Carolyn Chen&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#lead-recall-of-copyrighted-material-in-llms&#34;&gt;Lead topic: Recall of copyrighted material in LLMs&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;news-the-first-ai-war&#34;&gt;News: “The first AI war”&lt;/h1&gt;&#xA;&lt;p&gt;Presented by Team 4&lt;/p&gt;&#xA;&lt;p&gt;The news team opened by talking about recent fighting as what some people are already calling the first “AI war,” with two big operations on the table: Epic Fury and Roaring Lion. They weren’t obsessed with sci-fi killer robots; the point was what AI is actually doing in military operations today.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Plans for Week 12</title>
