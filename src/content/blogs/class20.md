@@ -7,6 +7,8 @@ author = "Team 5"
 +++
 **Blogging Team [5]**: Yuezhang Chen, Seth Lifland, Grace Kitthanawong , Iman Mohamed, Salonee Verma
 
+[Slides](https://www.dropbox.com/scl/fi/t0u46t05jwvvyn15398aa/cs4501ha-s26-class20.pdf?rlkey=w73vubklcg7fw3r5mu1echyzk&e=1&dl=0)
+
 # Class Updates
 Due to questions in the prior class, Professor Evans took us through the landscape of social media class action lawsuits — there are many various firms setting up these lawsuits against social media companies, and it will be interesting to see how they shape public perception. Lawsuits helped change the perception of tobacco earlier in history, so it’s possible they could do the same today.
 
