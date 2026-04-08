@@ -60,9 +60,3 @@ Lastly, Team Fushia’s project “Unskilled to Autofilled” explores whether A
 # Professor Evans’s Feedback
 
 After all the teams had gone, Professor Evans provided the class with some advice and final feedback, emphasizing that teams should take notice of certain aspects of the slideshows that would be beneficial to incorporate or avoid for future presentations. He highlighted the value of the space on the screen, and encouraged groups to use it in the most useful way, such as having a large image that fills most of the screen. He commented that many slides had 80% of the screen space unused, and he emphasized the benefit of optimizing screen space.
-
-You can use this template for your blog, but also look at previous examples from other blogging teams for help on structuring your blog.
-
-In general, writing for the web is different from writing for other media. You should break your text into fairly short paragraphs, and including images and links is highly encouraged! 
-
-
