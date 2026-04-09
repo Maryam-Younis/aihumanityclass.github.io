@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="literata-v15-latin2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/themes/aihum/static/fonts/literata-v15-latin.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
