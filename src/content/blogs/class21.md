@@ -13,7 +13,7 @@ author = "Team 2"
 
 Sora is an AI generated video content platform and the news team discussed how it was recently let go by Open AI. Sora produces specific videos with AI prompts and it was first released on social media and then as a standalone app. There are some inconsistencies in the videos Sora can generate including incorrect generation of body parts or frames being cut off too fast. The CEO of the AI detection platform Copyleaks described Sora as a "content moderation nightmare." It spread rampant misinformation and could even make violent or racist content. Open AI stated they will still be using the video generation model for training content. The larger view of this is that this demonstrates an example of a limit placed on AI development which may emerge as a trend. 
 
-## Discussion Question: Should AI tools like Sora be released to the public if content moderation is not fully solved? Why or why not?
+## Should AI tools like Sora be released to the public if content moderation is not fully solved? Why or why not?
 
 The class discussed being against technologies like Sora mentioning other technologies such as Grok AI which have pushed people away from video technologies. Some argue the Sora platform should be more heavily moderated, but if Sora videos are being uploaded on external platforms then it is not Sora's responsibility to regulate it. 
 
