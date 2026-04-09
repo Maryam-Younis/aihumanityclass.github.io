@@ -30,9 +30,3 @@ The lead team used telephone as an analogy for model collapse. When a model coll
 ## Sources
 * Schaeffer, R., Kazdan, J., Arulandu, A. C., & Koyejo, S. (2025). Position: Model collapse does not mean what you think. arXiv. https://arxiv.org/abs/2503.03150
 * Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y. (2024). AI models collapse when trained on recursively generated data. Nature, 631, 755–759. https://doi.org/10.1038/s41586-024-07566-y
-
-To include an image, store the image file in src/content/static/images/. Then, use
-<img src="/images/humanitylogo.png" width=80% alt="This is the course logo"></img>
-
-
-You shouldn't need to change the layouts or other files, but if you want to improve them without breaking things, that's fine.
