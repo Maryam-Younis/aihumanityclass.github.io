@@ -25,6 +25,8 @@ The class discussed being against technologies like Sora mentioning other techno
 
 The lead team used telephone as an analogy for model collapse. When a model collapses, the same information is repeated and over time it degrades and loses its original meaning. The concern with this is that AI generated data is going to fall into future models' training data. The overarching issue the lead team brought up was that the model will start overestimating events that happen most often and this will lead to model collapse. 
 
+<img src="/images/image-3" width=80% alt="An example of a model collapsing"></img>
+
 ## Sources
 * Schaeffer, R., Kazdan, J., Arulandu, A. C., & Koyejo, S. (2025). Position: Model collapse does not mean what you think. arXiv. https://arxiv.org/abs/2503.03150
 * Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y. (2024). AI models collapse when trained on recursively generated data. Nature, 631, 755–759. https://doi.org/10.1038/s41586-024-07566-y
