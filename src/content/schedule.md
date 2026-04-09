@@ -110,14 +110,7 @@ slug = "schedule"
   </thead>
   <tbody>
 
-  
-  <tr>
-  <td>Tuesday 7 Apr</td>
-  <td>4</td>
-  <td>11</td>
-  <td>7</td>
-  </tr>
-  <tr>
+    <tr>
   <td>Thursday 9 Apr</td>
   <td colspan=2>"Midterm"</td>
   <td>8</td>
@@ -300,9 +293,16 @@ slug = "schedule"
   <tr>
   <td>Thursday 2 Apr</td>
   <td>3</td>
-  <td>10</td>
+  <td>Model Collapse (10)</td>
   <td>2</td>
   </tr>
+  <tr>
+  <td>Tuesday 7 Apr</td>
+  <td>AI War (4)</td>
+  <td>LLM Memorization (11)</td>
+  <td><a href="/blogs/class22/">Class 22</a> (7)</td>
+  </tr>
+
 
  </tbody>
 </table>
