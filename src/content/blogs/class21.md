@@ -72,8 +72,10 @@ _Is there a realistic way to force LLMs to account for the extraordinary samples
 
 Students discussed whether it is possible to force AI models to preserve rare or unusual data points. One concern was that models trained primarily on probability-based patterns will naturally favor common examples while ignoring rare ones. This could lead to the erasure of niche knowledge, marginalized perspectives, or unusual historical events. Some potential solutions mentioned included curating and filtering training data, watermarking AI-generated content so it can be excluded from training datasets, and preserving archives of human-generated data created before the rise of generative AI. These strategies may help ensure that models continue to learn from diverse human sources rather than only synthetic data.
 
-**Professor Evans' opinion:**
-Professor Evans pointed out the tension between capturing parts of the distribution that are represented by only a few training examples and avoiding memorization, the topic for the [next class](/blogs/class22). 
+**Professor Evans' comments:**
+Professor Evans is more worried about _cultural collapse_ than _model collapse_. Generative AI is one factor exacerbating cultural collapse, but it is also a result of centralization of media and economic forces that impact artists and creators. 
+
+Evans pointed out the tension between capturing parts of the distribution that are represented by only a few training examples and avoiding memorization, the topic for the [next class](/blogs/class22). 
 
 One of the slides raised the question of what is means for a source to be "legitimate". He compared the legitimacy of AI-generated knowledge to sources like Wikipedia, which intend capture large amounts of "objective" human knowledge even when there are disagreements or controversies. In that sense, idealized models can objectively capture and summarize views of humanity, at least inasmuch as they are trained on a corpus that reflects this. 
 
