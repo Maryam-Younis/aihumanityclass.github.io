@@ -292,9 +292,9 @@ slug = "schedule"
   </tr>
   <tr>
   <td>Tuesday 14 Apr</td>
-  <td>&ndash;</td>
-  <td>12</td>
-  <td>4</td>
+  <td>Mythos</td>
+  <td>Detecting AI (12)</td>
+  <td><a href="/blogs/class24">Class 24</a> (4)</td>
   </tr>
 
   <tr>
