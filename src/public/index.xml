@@ -6,8 +6,15 @@
     <description>Recent content on AI and Humanity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aihumanityclass.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 24: Ask Anything</title>
+      <link>https://aihumanityclass.github.io/class-24-ask-anything/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://aihumanityclass.github.io/class-24-ask-anything/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/vir817kheay3crd0rn558/cs4501ha-s26-class24.pdf?rlkey=dzi7v0re0xowi1gizf1n36jlt&amp;amp;dl=0&#34;&gt;&lt;strong&gt;Class 24 Slides&lt;/strong&gt; (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Donald Knuth &amp;ldquo;All Questions Answered&amp;rdquo; video is here: &lt;a href=&#34;https://youtu.be/CDokMxVtB3k?si=JeSFiSNZ0fyGIo9O&amp;amp;t=2043&#34;&gt;https://youtu.be/CDokMxVtB3k?si=JeSFiSNZ0fyGIo9O&amp;amp;t=2043&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://people.cs.uchicago.edu/~ravenben/bits/knuth.pdf&#34;&gt;&lt;em&gt;All Questions Answered&lt;/em&gt;&lt;/a&gt;). Notices of the AMS, March 2002. (If you&amp;rsquo;re using Overleaf, you are using a typesetting system built on top of TeX, which Donald Knuth created to typeset his books. One of the questions here is about that.)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The Most Awesome video is: &lt;a href=&#34;https://youtu.be/CNbmoVdirxw?si=iIozfUUPTa_LMKku&#34;&gt;πHard&lt;/a&gt;. (I will not dignify the &amp;ldquo;Most Offensive&amp;rdquo; video with a link here, but you can probably find it if you really want to.)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Class 20</title>
       <link>http://localhost:1313/class-20/</link>
