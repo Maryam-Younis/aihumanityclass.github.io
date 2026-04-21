@@ -13,3 +13,5 @@ The Donald Knuth "All Questions Answered" video is here: [https://youtu.be/CDokM
 - [_All Questions Answered_](https://people.cs.uchicago.edu/~ravenben/bits/knuth.pdf)). Notices of the AMS, March 2002. (If you're using Overleaf, you are using a typesetting system built on top of TeX, which Donald Knuth created to typeset his books. One of the questions here is about that.)
 
 The Most Awesome video is: [&pi;Hard](https://youtu.be/CNbmoVdirxw?si=iIozfUUPTa_LMKku). (I will not dignify the "Most Offensive" video with a link here, but you can probably find it if you really want to.)
+
+Added: the blog is now posted: [**Class 25: Ask Anything**](/blogs/class25).
